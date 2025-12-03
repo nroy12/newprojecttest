@@ -5,6 +5,7 @@ int main(){
 
 
 cout<<"Hello github";
+cout<<"HEllo world" ;
 
     return 0;
 }
